@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BBEditDocumentType</key>
+    <string>CodelessLanguageModule</string>
+    <key>BBLMLanguageCode</key>
+    <string>KTLN</string>
+    <key>BBLMLanguageDisplayName</key>
+    <string>Kotlin</string>
+    <key>BBLMSuffixMap</key>
+    <array>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string>.kt</string>
+        </dict>
+    </array>
+    <key>BBLMColorsSyntax</key>
+    <true/>
+    <key>BBLMScansFunctions</key>
+    <true/>
+    <key>BBLMSupportsTextCompletion</key>
+    <true/>
+    <key>BBLMKeywordList</key>
+    <array>
+        <string>as</string>
+        <string>as?</string>
+        <string>break</string>
+        <string>class</string>
+        <string>continue</string>
+        <string>do</string>
+        <string>else</string>
+        <string>false</string>
+        <string>for</string>
+        <string>fun</string>
+        <string>if</string>
+        <string>in</string>
+        <string>!in</string>
+        <string>interface</string>
+        <string>is</string>
+        <string>!is</string>
+        <string>null</string>
+        <string>object</string>
+        <string>package</string>
+        <string>return</string>
+        <string>super</string>
+        <string>this</string>
+        <string>throw</string>
+        <string>true</string>
+        <string>try</string>
+        <string>typealias</string>
+        <string>val</string>
+        <string>var</string>
+        <string>when</string>
+        <string>while</string>
+        <!-- Soft Keywords -->
+        <string>by</string>
+        <string>catch</string>
+        <string>constructor</string>
+        <string>delegate</string>
+        <string>dynamic</string>
+        <string>field</string>
+        <string>file</string>
+        <string>finally</string>
+        <string>get</string>
+        <string>import</string>
+        <string>init</string>
+        <string>param</string>
+        <string>property</string>
+        <string>receiver</string>
+        <string>set</string>
+        <string>setparam</string>
+        <string>where</string>
+        <!-- Modifier Keywords -->
+        <string>abstract</string>
+        <string>annotation</string>
+        <string>companion</string>
+        <string>const</string>
+        <string>crossinline</string>
+        <string>data</string>
+        <string>enum</string>
+        <string>external</string>
+        <string>final</string>
+        <string>infix</string>
+        <string>inline</string>
+        <string>inline</string>
+        <string>inner</string>
+        <string>internal</string>
+        <string>lateinit</string>
+        <string>noinline</string>
+        <string>open</string>
+        <string>operator</string>
+        <string>out</string>
+        <string>override</string>
+        <string>private</string>
+        <string>protected</string>
+        <string>public</string>
+        <string>reified</string>
+        <string>sealed</string>
+        <string>suspend</string>
+        <string>tailrec</string>
+        <string>vararg</string>
+        <!-- Special Identifiers -->
+        <string>field</string>
+        <string>it</string>
+    </array>
+    <key>BBLMPredefinedNameList</key>
+    <array>
+    </array>
+    <key>Language Features</key>
+    <dict>
+        <key>Open Block Comments</key>
+        <string>/*</string>
+        <key>Close Block Comments</key>
+        <string>*/</string>
+        <key>Open Line Comments</key>
+        <string>//</string>
+        <key>Identifier and Keyword Character Class</key>
+        <string>a-zA-Z0-9_</string>
+        <key>Open Strings 1</key>
+        <string>&quot;</string>
+        <key>Open Strings 2</key>
+        <string>&apos;</string>
+        <key>Close Strings 1</key>
+        <string>&quot;</string>
+        <key>Close Strings 2</key>
+        <string>&apos;</string>
+        <key>Escape Char in Strings 1</key>
+        <string>\</string>
+        <key>End-of-line Ends Strings 1</key>
+        <true/>
+        <key>Prefix for Functions</key>
+        <string>fun</string>
+       <key>Open Parameter Lists</key>
+        <string>(</string>
+        <key>Close Parameter Lists</key>
+        <string>)</string>
+        <key>Open Statement Blocks</key>
+        <string>{</string>
+        <key>Close Statement Blocks</key>
+        <string>}</string>
+    </dict>
+    <key>BBLMCommentLineDefault</key>
+    <string>//</string>
+</dict>
+</plist>
